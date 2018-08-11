@@ -11,6 +11,9 @@ public class PontoInteligenteApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		
+		
 	}
 
 }
